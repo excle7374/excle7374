@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Excle Cybersecurity GitHub Banner" width="100%">
+<img src="./assets/Banner.png" alt="Excle Cybersecurity Learning Banner" width="100%">
 
 # 👋 Welcome to Excle's GitHub
 
